@@ -163,6 +163,8 @@ func NewCustomHostDB(g modules.Gateway, cs modules.ConsensusSet, persistDir stri
 	// fake hosts and not have them marked as offline as the scanloop operates.
 	if !hdb.deps.Disrupt("disableScanLoop") {
 		go hdb.threadedScan()
+	} else {
+		hdb.initialScanComplete = true
 	}
 
 	return hdb, nil
