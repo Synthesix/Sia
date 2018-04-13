@@ -3,8 +3,8 @@ package consensus
 import (
 	"testing"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/types"
 )
 
 // TestIntegrationChangeLog does a general test of the changelog by creating a

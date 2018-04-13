@@ -6,7 +6,7 @@ package modules
 import (
 	"time"
 
-	"github.com/NebulousLabs/Sia/build"
+	"github.com/Synthesix/Sia/build"
 )
 
 var (

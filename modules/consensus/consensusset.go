@@ -9,11 +9,11 @@ package consensus
 import (
 	"errors"
 
-	"github.com/NebulousLabs/Sia/encoding"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/persist"
-	"github.com/NebulousLabs/Sia/sync"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/encoding"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/persist"
+	"github.com/Synthesix/Sia/sync"
+	"github.com/Synthesix/Sia/types"
 
 	"github.com/NebulousLabs/demotemutex"
 	"github.com/coreos/bbolt"

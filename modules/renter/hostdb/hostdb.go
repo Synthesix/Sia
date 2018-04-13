@@ -11,11 +11,11 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/modules/renter/hostdb/hosttree"
-	"github.com/NebulousLabs/Sia/persist"
-	siasync "github.com/NebulousLabs/Sia/sync"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/modules/renter/hostdb/hosttree"
+	"github.com/Synthesix/Sia/persist"
+	siasync "github.com/Synthesix/Sia/sync"
+	"github.com/Synthesix/Sia/types"
 )
 
 var (

@@ -4,16 +4,16 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/modules/consensus"
-	"github.com/NebulousLabs/Sia/modules/gateway"
-	"github.com/NebulousLabs/Sia/modules/miner"
-	"github.com/NebulousLabs/Sia/modules/renter/hostdb"
-	"github.com/NebulousLabs/Sia/modules/transactionpool"
-	modWallet "github.com/NebulousLabs/Sia/modules/wallet" // name conflicts with type
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/modules/consensus"
+	"github.com/Synthesix/Sia/modules/gateway"
+	"github.com/Synthesix/Sia/modules/miner"
+	"github.com/Synthesix/Sia/modules/renter/hostdb"
+	"github.com/Synthesix/Sia/modules/transactionpool"
+	modWallet "github.com/Synthesix/Sia/modules/wallet" // name conflicts with type
+	"github.com/Synthesix/Sia/types"
 )
 
 // contractorTester contains all of the modules that are used while testing the contractor.

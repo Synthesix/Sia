@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/node"
-	"github.com/NebulousLabs/Sia/node/api/client"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/node"
+	"github.com/Synthesix/Sia/node/api/client"
+	"github.com/Synthesix/Sia/types"
 	"github.com/NebulousLabs/errors"
 	"github.com/NebulousLabs/fastrand"
 )

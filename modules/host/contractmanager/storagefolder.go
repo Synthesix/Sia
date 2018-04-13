@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/sync"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/sync"
 	"github.com/NebulousLabs/fastrand"
 )
 

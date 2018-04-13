@@ -4,10 +4,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/modules/renter"
-	"github.com/NebulousLabs/Sia/node"
-	"github.com/NebulousLabs/Sia/siatest"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/modules/renter"
+	"github.com/Synthesix/Sia/node"
+	"github.com/Synthesix/Sia/siatest"
 	"github.com/NebulousLabs/fastrand"
 )
 

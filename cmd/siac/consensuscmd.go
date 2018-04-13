@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/NebulousLabs/Sia/node/api"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/node/api"
+	"github.com/Synthesix/Sia/types"
 )
 
 var (

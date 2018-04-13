@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/types"
 	"github.com/NebulousLabs/fastrand"
 )
 

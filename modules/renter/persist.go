@@ -10,11 +10,11 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/encoding"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/persist"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/encoding"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/persist"
+	"github.com/Synthesix/Sia/types"
 )
 
 const (

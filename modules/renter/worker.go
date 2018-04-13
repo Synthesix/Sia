@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/types"
 )
 
 // A worker listens for work on a certain host.

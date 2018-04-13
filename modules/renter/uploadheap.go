@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/NebulousLabs/Sia/crypto"
+	"github.com/Synthesix/Sia/crypto"
 )
 
 // uploadHeap contains a priority-sorted heap of all the chunks being uploaded

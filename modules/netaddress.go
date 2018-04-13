@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NebulousLabs/Sia/build"
+	"github.com/Synthesix/Sia/build"
 )
 
 // MaxEncodedNetAddressLength is the maximum length of a NetAddress encoded

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/types"
 
 	"github.com/NebulousLabs/fastrand"
 )

@@ -3,9 +3,9 @@ package consensus
 import (
 	"testing"
 
-	"github.com/NebulousLabs/Sia/node"
-	"github.com/NebulousLabs/Sia/siatest"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/node"
+	"github.com/Synthesix/Sia/siatest"
+	"github.com/Synthesix/Sia/types"
 )
 
 // TestApiHeight checks if the consensus api endpoint works

@@ -11,9 +11,9 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/encoding"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/encoding"
 )
 
 // sanityCheckWriter checks that the bytes written to w exactly match the

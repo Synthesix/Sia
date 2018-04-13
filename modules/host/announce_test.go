@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/types"
 )
 
 // announcementFinder is a quick module that parses the blockchain for host

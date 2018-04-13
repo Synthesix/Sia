@@ -5,7 +5,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/NebulousLabs/Sia/crypto"
+	"github.com/Synthesix/Sia/crypto"
 
 	"github.com/NebulousLabs/errors"
 )

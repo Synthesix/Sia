@@ -4,8 +4,8 @@ import (
 	"math/big"
 
 	"errors"
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/types"
 )
 
 // scanAmount scans a types.Currency from a string.

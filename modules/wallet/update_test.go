@@ -3,8 +3,8 @@ package wallet
 import (
 	"testing"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/types"
 )
 
 // TestUpdate tests that the wallet processes consensus updates properly.

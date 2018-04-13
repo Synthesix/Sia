@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/modules"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/modules"
 )
 
 // dependencyNoRecheck prevents the recheck loop from running in the contract

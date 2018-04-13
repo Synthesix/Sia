@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/types"
 )
 
 var (

@@ -6,11 +6,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/encoding"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/persist"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/encoding"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/persist"
+	"github.com/Synthesix/Sia/types"
 	"github.com/NebulousLabs/fastrand"
 
 	"github.com/coreos/bbolt"

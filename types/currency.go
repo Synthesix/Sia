@@ -12,7 +12,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/NebulousLabs/Sia/build"
+	"github.com/Synthesix/Sia/build"
 )
 
 type (

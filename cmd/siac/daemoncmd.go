@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/node/api"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/node/api"
 	"github.com/spf13/cobra"
 )
 

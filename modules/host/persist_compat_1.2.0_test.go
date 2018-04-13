@@ -5,13 +5,13 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/modules/consensus"
-	"github.com/NebulousLabs/Sia/modules/gateway"
-	"github.com/NebulousLabs/Sia/modules/transactionpool"
-	"github.com/NebulousLabs/Sia/modules/wallet"
-	"github.com/NebulousLabs/Sia/persist"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/modules/consensus"
+	"github.com/Synthesix/Sia/modules/gateway"
+	"github.com/Synthesix/Sia/modules/transactionpool"
+	"github.com/Synthesix/Sia/modules/wallet"
+	"github.com/Synthesix/Sia/persist"
 )
 
 const (

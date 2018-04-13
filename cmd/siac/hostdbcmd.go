@@ -8,8 +8,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/node/api"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/node/api"
 )
 
 const scanHistoryLen = 30

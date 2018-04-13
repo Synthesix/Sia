@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/node/api"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/node/api"
 )
 
 // RenterContractsGet requests the /renter/contracts resource

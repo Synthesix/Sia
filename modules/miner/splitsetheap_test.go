@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/types"
 	"github.com/NebulousLabs/fastrand"
 )
 

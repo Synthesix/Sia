@@ -3,7 +3,7 @@ package siatest
 import (
 	"testing"
 
-	"github.com/NebulousLabs/Sia/build"
+	"github.com/Synthesix/Sia/build"
 )
 
 // TestCreateTestGroup tests the behavior of NewGroup.

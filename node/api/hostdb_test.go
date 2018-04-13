@@ -10,16 +10,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/modules/consensus"
-	"github.com/NebulousLabs/Sia/modules/gateway"
-	"github.com/NebulousLabs/Sia/modules/host"
-	"github.com/NebulousLabs/Sia/modules/miner"
-	"github.com/NebulousLabs/Sia/modules/renter"
-	"github.com/NebulousLabs/Sia/modules/transactionpool"
-	"github.com/NebulousLabs/Sia/modules/wallet"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/crypto"
+	"github.com/Synthesix/Sia/modules"
+	"github.com/Synthesix/Sia/modules/consensus"
+	"github.com/Synthesix/Sia/modules/gateway"
+	"github.com/Synthesix/Sia/modules/host"
+	"github.com/Synthesix/Sia/modules/miner"
+	"github.com/Synthesix/Sia/modules/renter"
+	"github.com/Synthesix/Sia/modules/transactionpool"
+	"github.com/Synthesix/Sia/modules/wallet"
 )
 
 // TestHostDBHostsActiveHandler checks the behavior of the call to

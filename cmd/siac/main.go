@@ -11,8 +11,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/NebulousLabs/Sia/build"
-	"github.com/NebulousLabs/Sia/node/api"
+	"github.com/Synthesix/Sia/build"
+	"github.com/Synthesix/Sia/node/api"
 )
 
 var (

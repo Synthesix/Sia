@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/NebulousLabs/Sia/encoding"
-	"github.com/NebulousLabs/Sia/modules"
+	"github.com/Synthesix/Sia/encoding"
+	"github.com/Synthesix/Sia/modules"
 )
 
 // TestIpRPC tests the ip discovery RPC.

@@ -11,8 +11,8 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/NebulousLabs/Sia/node/api"
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/node/api"
+	"github.com/Synthesix/Sia/types"
 )
 
 var (

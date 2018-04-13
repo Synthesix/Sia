@@ -1,7 +1,7 @@
 package modules
 
 import (
-	"github.com/NebulousLabs/Sia/types"
+	"github.com/Synthesix/Sia/types"
 )
 
 const (
